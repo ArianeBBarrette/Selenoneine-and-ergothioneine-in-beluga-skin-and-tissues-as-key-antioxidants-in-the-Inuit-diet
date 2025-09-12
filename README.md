@@ -1,0 +1,2 @@
+# Selenoneine-and-ergothioneine-in-beluga-skin-and-tissues-as-key-antioxidants-in-the-Inuit-diet
+The purpose of this dataset and code is to document the concentrations and tissue distribution of two key dietary antioxidants, selenoneine and ergothioneine, in 14 beluga whales (Delphinapterus leucas) harvested by Inuit hunters in Quaqtaq, Nunavik, between 2018 and 2019. This is a complement of the research article in Scientific Reports (2025)
