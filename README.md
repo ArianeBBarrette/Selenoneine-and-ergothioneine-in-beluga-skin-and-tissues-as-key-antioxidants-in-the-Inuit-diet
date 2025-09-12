@@ -4,7 +4,7 @@ The purpose of this dataset and code is to document the concentrations and tissu
 ---
 ## 📂 Code
 All analysis scripts are provided in R.  
-- [analysis.R](./analysis.R) – Main script for data processing and figures  
+- [code.R](./code.R) – Main script for data processing and figures  
 
 ---
 
